@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "name": "Dom Perignon Rose",
+    "price": 30,
+    "description": "Candle made out of Dom Perignon Bottle",
+    "stock": 10
+  },
+  {
+    "id": 1,
+    "name": "Hendricks",
+    "price": 20,
+    "description": "Candle made out of Hendricks Bottle",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Whitley Neill Raspberry",
+    "price": 25,
+    "description": "Candle made out of Whitley Neill Raspberry Bottle",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Monkey Shoulder",
+    "price": 40,
+    "description": "candle made out of Monkey Shoulder bottle",
+    "stock": 10
+  },
+  { "id": 4, "name": "Portobello Road", "price": 40 }
+]

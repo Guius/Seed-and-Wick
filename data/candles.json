@@ -1,0 +1,113 @@
+[
+  {
+    "name": "The Botanist Gin Candle",
+    "price": 22,
+    "stock": 1,
+    "newCandle": false,
+    "ratingsAverage": 3,
+    "numberOfSales": 10,
+    "imageMain": "the-botanist-gin",
+    "images": ["the-botanist-gin-cover-0"],
+    "ratingsQuantity": 15
+  },
+  {
+    "name": "Perrier Jouet Belle Epoque Champagne Bottle Candle",
+    "price": 30,
+    "stock": 1,
+    "newCandle": false,
+    "ratingsAverage": 5,
+    "numberOfSales": 10,
+    "imageMain": "perrier-jouet-belle-epoque",
+    "ratingsQuantity": 20
+  },
+  {
+    "name": "Louis Roederer Cristal Champagne Bottle Candle",
+    "price": 30,
+    "stock": 1,
+    "newCandle": false,
+    "ratingsAverage": 3,
+    "numberOfSales": 5,
+    "imageMain": "louis-roederer-cristal"
+  },
+  {
+    "name": "Hendricks Gin Bottle Candle",
+    "price": 22,
+    "stock": 30,
+    "newCandle": false,
+    "ratingsAverage": 5,
+    "numberOfSales": 60,
+    "imageMain": "hendricks-gin-bottle",
+    "images": [
+      "hendricks-gin-bottle-cover-0",
+      "hendricks-gin-bottle-cover-1"
+    ],
+    "ratingsQuantity": 30
+  },
+  {
+    "name": "Bollinger Champagne Bottle Candle",
+    "price": 22,
+    "stock": 1,
+    "newCandle": false,
+    "ratingsAverage": 4.7,
+    "numberOfSales": 20,
+    "imageMain": "bollinger-champagne-bottle",
+    "images": ["bollinger-champagne-bottle-cover-0"]
+  },
+  {
+    "name": "Perrier Jouet Champagne Bottle Candle",
+    "price": 22,
+    "stock": 15,
+    "newCandle": false,
+    "ratingsAverage": 4.5,
+    "numberOfSales": 15,
+    "imageMain": "perrier-jouet-champagne-bottle",
+    "images": ["bollinger-champagne-bottle-cover-0"]
+  },
+  {
+    "name": "Whitley Neill Raspberry Gin Bottle Candle",
+    "price": 22,
+    "stock": 50,
+    "newCandle": false,
+    "ratingsAverage": 4.8,
+    "numberOfSales": 10,
+    "imageMain": "whitley-neill-raspberry-bottle",
+    "ratingsQuantity": 25
+  },
+  {
+    "name": "Cotswolds Gin Bottle Candle",
+    "price": 22,
+    "stock": 50,
+    "newCandle": false,
+    "ratingsAverage": 4.0,
+    "numberOfSales": 20,
+    "imageMain": "cotswolds-gin-bottle"
+  },
+  {
+    "name": "Monkey 47 Gin Bottle Candle",
+    "price": 25,
+    "stock": 0,
+    "newCandle": false,
+    "ratingsAverage": 4.9,
+    "numberOfSales": 10,
+    "imageMain": "monkey-47-gin-bottle",
+    "ratingsQuantity": 17
+  },
+  {
+    "name": "Grey Goose Vodka Bottle Candle",
+    "price": 22,
+    "stock": 50,
+    "newCandle": false,
+    "ratingsAverage": 4.1,
+    "numberOfSales": 15,
+    "imageMain": "grey-goose-vodka-bottle"
+  },
+  {
+    "name": "Boe Violet Gin Bottle Candle",
+    "price": 22,
+    "stock": 50,
+    "newCandle": false,
+    "ratingsAverage": 3.7,
+    "numberOfSales": 5,
+    "imageMain": "boe-violet-gin-bottle"
+  }
+]
